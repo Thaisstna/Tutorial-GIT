@@ -1,2 +1,1 @@
-# Tutorial-GIT
-Tutorial criação GIT
+Eu: Desenvolvedora de sistemas e estudando de sistemas de informação.
